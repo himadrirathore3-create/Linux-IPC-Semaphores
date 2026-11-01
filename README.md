@@ -29,7 +29,7 @@ Execute the C Program for the desired output.
 $ ./sem.o 
 <img width="1173" height="1341" alt="Kali Linux Semaphore Demo Terminal" src="https://github.com/user-attachments/assets/2faa1ef2-587c-4ad1-b982-371f22a3e685" />
 
-<img width="1449" height="1085" alt="2nd pic kali" src="https://github.com/user-attachments/assets/c967e809-69b3-4d4a-8bec-450b0633af8c" />
+<img width="1449" height="1085" alt="2nd pic kali" src="https://github.com/user-attachments/assets/ea89ca09-0712-4cc7-b5d6-0d955c46f0f2" />
 
 $ ipcs
 
